@@ -1,0 +1,55 @@
+# Meteor packages used by this project, one per line.
+
+meteor-base
+mongo
+blaze-html-templates
+
+# standard-minifiers
+# crosswalk
+# ddp-rate-limiter
+es5-shim
+ecmascript
+
+# autopublish
+# insecure
+
+tracker
+jquery
+underscore
+check
+reactive-dict
+reactive-var
+session
+http
+less
+mdg:validated-method
+mdg:validation-error
+mdg:geolocation
+mdg:camera
+
+email
+wylio:mandrill
+
+iron:router
+useraccounts:iron-routing
+reywood:publish-composite
+
+service-configuration
+accounts-base
+accounts-password
+accounts-twitter
+accounts-facebook
+accounts-google
+# useraccounts:unstyled
+
+aldeed:simple-schema
+aldeed:collection2
+aldeed:autoform
+aldeed:template-extension
+
+dburles:collection-helpers
+matb33:collection-hooks
+
+anti:fake
+
+meteor-polymerize
